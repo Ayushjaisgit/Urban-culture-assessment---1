@@ -1,0 +1,1 @@
+## This is the first part of the assessment, i have created a todo list application demonstrating the functionality of CRUD Operations and also added authentication and authorization using json web token, and used multiple js libraries to support this application
